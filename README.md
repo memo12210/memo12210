@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **my own indie game project.**
 
-- 🌱 I’m currently learning **XUnit,NUnit testing frameworks.**
+- 🌱 I’m currently learning **FMOD Audio Integration Plugin, NUnit Unit Test Framework.**
 
-- 💬 Ask me about **Unity/Unreal Engine Game Development**
+- 💬 Ask me about **Unity/Unreal Engine Game Development, Audio/Music Production**
 
 - 📫 How to reach me **memocaldev@gmail.com**
 
