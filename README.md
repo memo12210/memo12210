@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **my own indie game project.**
 
-- 🌱 I’m currently learning **FMOD Audio Integration Plugin, NUnit Unit Test Framework.**
+- 🌱 I’m currently learning **FMOD Audio Integration Plugin, NUnit Unit Test Framework, Oracle SQL.**
 
 - 💬 Ask me about **Unity/Unreal Engine Game Development, Audio/Music Production**
 
