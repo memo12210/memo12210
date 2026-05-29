@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">I'm a software engineer from Turkey, who is passionate about game development, systems programming, and IoT.<br><br>- 🔭 I’m currently building an IoT-based greenhouse monitoring system with ESP32 and MQTT.<br>- 📚 I'm currently learning Rust, game design patterns, and backend technologies.<br>- ⚡ In my free time I love participating in game jams!</p>
+<p align="left">I'm a software engineer from Turkey, who is passionate about game development, systems programming, and IoT.<br><br>- 🔭 I’m currently building an IoT-based greenhouse monitoring system using ESP32 and FastAPI.<br>- 📚 I'm currently learning Rust, game design patterns, and backend technologies.<br>- ⚡ In my free time I love participating in game jams!</p>
 
 ###
 
